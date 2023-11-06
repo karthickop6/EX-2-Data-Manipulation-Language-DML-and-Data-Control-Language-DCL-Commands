@@ -1,6 +1,6 @@
 # EX 2 Data Manipulation Language (DML) Commands and built in functions in SQL
 
-## DATE: 11/8/23
+## DATE: 
 
 
 ## AIM:
